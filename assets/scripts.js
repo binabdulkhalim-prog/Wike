@@ -1,4 +1,4 @@
-function clickThemeIcon (themeIcon) {
+///function clickThemeIcon (themeIcon) {
   var themeImage = document.getElementById("image-theme");
   if (themeIcon.value == 1) {
     themeImage.src = "media/wike-sepia.png";
