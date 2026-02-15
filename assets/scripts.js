@@ -4,7 +4,7 @@
     themeImage.src = "media/wike-sepia.png";
   } else if (themeIcon.value == 2) {
     themeImage.src = "media/wike-dark.png";
-  } else {
+  } else {{{
     themeImage.src = "media/wike-light.png";
   }
 }
